@@ -1,16 +1,15 @@
-#Acceso
+# Acceso a nextcloud
 
 
 ## Pasos
-1.  - Accedemos a **localhost:9000** y creamos el usuario *admin* con nuestros datos
+1.  - Accedemos a **localhost:8080** y ponemos el usuario creado
 	
-     ![Acceso 1](https://github.com/jesusromero92/docker-portainer/blob/main/Fotos/acceso1.png)
+     ![1](https://github.com/jesusromero92/nextcloud/blob/main/Fotos/4-3.png)
 
-2.  - Seleccionamos la opción de *Docker* y le damos a **continuar**
+2.  - Se nos empezará a instalar automaticamente
 
-     ![Acceso 2](https://github.com/jesusromero92/docker-portainer/blob/main/Fotos/acceso2.png)
 
-3.  - Ya estariamos dentro de **portainer**
+3.  - Subimos una imagen para comprobar que funciona
 
-     ![Acceso 3](https://github.com/jesusromero92/docker-portainer/blob/main/Fotos/acceso3.png)
+     ![2](https://github.com/jesusromero92/nextcloud/blob/main/Fotos/4-foto.png)
 
